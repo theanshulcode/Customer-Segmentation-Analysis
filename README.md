@@ -13,4 +13,4 @@ For the 5 cluster analysis where all the three parameters, age,annual income and
 
 Article
 
-An Article wrote on the same analysis Find [**here**](https://theanshul.medium.com/customer-segmentation-using-k-means-clustering-ffded3a2695)
+I wrote an article on the same analysis, please find it [**here**](https://theanshul.medium.com/customer-segmentation-using-k-means-clustering-ffded3a2695).
