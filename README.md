@@ -1,8 +1,8 @@
 # Customer-Segmentation-Analysis
 # Algorithm used: K Means Clustering
 
-<img src="https://github.com/theanshulcode/Customer-Segmentation-Analysis/images.jpg" width="450" height="450">
-
+![Customer Segmentation](https://github.com/theanshulcode/Customer-Segmentation-Analysis/images.jpg" width="450" height="450)
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theanshulcode&repo=Customer-Segmentation-Analysis&theme=light" />
 __________________________________________________________________________
 
 Customer segmentation is the process of dividing customers into groups based on common characteristics so that companies can market to each group effectively and appropriately. I have used the mall_customers dataset from Kaggle. It has some basic data like the Customer ID, age, gender, annual income and spending score, which is automatically assigned to the customer based on the defined parameters like customer behavior and purchasing data.
