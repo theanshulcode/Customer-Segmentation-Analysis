@@ -1,5 +1,5 @@
 # Customer-Segmentation-Analysis
-# Algorithm used: K Means Clustering
+## Algorithm used: K Means Clustering
 
 ![images](https://user-images.githubusercontent.com/77589822/120663781-f5f52b80-c4a7-11eb-8640-459d60d5c2a5.jpg)
 
